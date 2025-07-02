@@ -18,11 +18,9 @@ A sleek and modern BMI (Body Mass Index) Calculator built with **Flutter**, desi
 
 ## 📸 Screenshots
 
-| Home | BMI Result |
-|------|------------|
-| ![Home](assets/screenshots/home.png) | ![Result](assets/screenshots/result.png) |
 
 > *Add your own screenshots under `/assets/screenshots` and update paths above.*
+![Screenshot 2025-07-02 171943](https://github.com/user-attachments/assets/9173eb41-ffbf-4793-a252-4f2f22fdf5cf)
 
 ---
 
